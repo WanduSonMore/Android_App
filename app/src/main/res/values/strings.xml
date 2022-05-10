@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday</string> //This is the title of the app.
+    <string name="edit_message">Enter a message</string> //This is for message editor where users input their own messages.
+    <string name="button_send">Send</string> //This is the button that is used to submit the message made.
+</resources>
