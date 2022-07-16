@@ -8,13 +8,13 @@ I created this Android app with the purpose of learning how to create an app for
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/d6neoGx2N2M)
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
+I used Android Studio to make my app.
 
-{Describe the programming language that you used and any libraries.}
+I used Kotlin's language to program 
 
 # Useful Websites
 
